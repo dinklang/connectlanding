@@ -72,7 +72,7 @@ const Header: NextPage = () => {
           </div>
           <button 
             onClick={toggleMenu}
-            className="cursor-pointer hidden flex-row items-center justify-center lg:flex"
+            className="cursor-pointer hidden bg-[transparent] flex-row items-center justify-center lg:flex"
           >
             <img
               className="relative w-6 h-6 overflow-hidden shrink-0 md:flex"
