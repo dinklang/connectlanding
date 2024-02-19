@@ -93,20 +93,8 @@ const ConnectForm: NextPage = () => {
               className="[text-decoration:none] relative leading-[24px] text-[inherit]"
               href="https://www.my.connectinternal.com"
             >
-              Employer
+              Rewards
             </a>
-            <Link
-              className="cursor-pointer [text-decoration:none] relative leading-[24px] text-[inherit]"
-              href="/blogs"
-            >
-              Blog
-            </Link>
-            <Link
-              className="cursor-pointer [text-decoration:none] relative leading-[24px] text-[inherit]"
-              href="/about"
-            >
-              Contact
-            </Link>
           </div>
         </div>
         <div className="w-[173px] h-[248px] flex flex-col items-start justify-start gap-[32px]">
@@ -123,18 +111,6 @@ const ConnectForm: NextPage = () => {
               href="/about"
             >
               Contact
-            </Link>
-            <Link
-              className="cursor-pointer [text-decoration:none] relative leading-[24px] text-[inherit]"
-              href="/about"
-            >
-              Careers
-            </Link>
-            <Link
-              className="cursor-pointer [text-decoration:none] relative leading-[24px] text-[inherit]"
-              href="/blogs"
-            >
-              Blog
             </Link>
           </div>
         </div>

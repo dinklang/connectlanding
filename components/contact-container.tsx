@@ -6,10 +6,10 @@ const ContactContainer: NextPage = () => {
       <div className="flex-1 flex flex-col items-center justify-start py-0 px-2.5 box-border gap-[40px] max-w-[900px]">
         <div className="w-[688px] flex flex-col items-center justify-start gap-[24px] max-w-[95%px] lg:max-w-[95%] md:self-stretch md:w-auto">
           <h1 className="m-0 self-stretch relative text-inherit leading-[48px] font-semibold font-inherit">
-            Contact us
+            Expansion
           </h1>
           <div className="self-stretch relative text-xl leading-[28px] text-darkgray">
-          If you have questions, fill out the form below with your details, and our team will be in touch to connect you with the perfect role that matches your skills and ambitions.
+          We are continuing to reach out to hospitals daily. If there is a City or State that you would like added, please let us know:
           </div>
         </div>
         <div className="self-stretch rounded-xl bg-gray-white shadow-[0px_0px_24px_rgba(0,_0,_0,_0.03)] flex flex-col items-center justify-start py-7 px-[30px] gap-[17px] text-left text-5xl text-darkslategray font-poppins">

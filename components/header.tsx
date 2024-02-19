@@ -46,15 +46,15 @@ const Header: NextPage = () => {
             </Link>
             <Link
               className="cursor-pointer relative text-sm font-body-large-400 text-primary-900 text-center inline-block"
-              href="/job-search">
-              NURSES
+              href="http://18.220.166.155/">
+              SIGN IN
             </Link>
-            <Link
+            {/* <Link
             className="cursor-pointer relative text-sm font-semibold font-body-large-400 text-primary-900 text-center inline-block"
             href="https://my.connectinternal.com">
               EMPLOYERS
-            </Link>
-            <Link
+            </Link> */}
+            {/* <Link
               className="cursor-pointer relative text-sm font-body-large-400 text-primary-900 text-center hidden"
               href="/blogs">
               BLOGS
@@ -68,7 +68,7 @@ const Header: NextPage = () => {
               className="cursor-pointer relative text-sm font-body-large-400 text-primary-900 text-center inline-block"
               href="/about">
               ABOUT
-            </Link>
+            </Link> */}
           </div>
           <button 
             onClick={toggleMenu}
@@ -89,16 +89,16 @@ const Header: NextPage = () => {
             </Link>
             <Link
               className="cursor-pointer relative text-sm font-body-large-400 text-primary-900 text-center inline-block"
-              href="/job-search">
-              NURSES
+              href="http://18.220.166.155/">
+              SIGN IN
             </Link>
-            <Link
+            {/* <Link
             className="cursor-pointer relative text-sm font-semibold font-body-large-400 text-primary-900 text-center inline-block"
             href="https://my.connectinternal.com"
             onClick={() => setMenu(false)}>
               EMPLOYERS
-            </Link>
-            <Link
+            </Link> */}
+            {/* <Link
               className="cursor-pointer relative text-sm font-body-large-400 text-primary-900 text-center hidden"
               href="/blogs"
               onClick={() => setMenu(false)}>
@@ -115,7 +115,7 @@ const Header: NextPage = () => {
               href="/about"
               onClick={() => setMenu(false)}>
               ABOUT
-            </Link>
+            </Link> */}
           </div>
         </div>
       </div>

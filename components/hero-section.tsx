@@ -16,10 +16,10 @@ const HeroSection: NextPage = () => {
       <div className="self-stretch flex flex-col items-center justify-center gap-[62px] max-w-[95%px]">
         <div className="self-stretch flex flex-col items-center justify-start gap-[24px] md:max-w-full">
           <h1 className="m-0 self-stretch relative text-inherit leading-[72px] font-semibold font-inherit">
-            Find travel nursing local contracts
+            Find Local Travel Contracts
           </h1>
           <div className="self-stretch relative text-xl leading-[28px] font-body-large-400 text-primary-50">
-          Discover personalized, direct hospital contracts, bypassing third-party intermediaries for a more fulfilling career path.
+          Discover internal hospital contracts, bypassing intermediaries for a seamless experience with rewards
           </div>
         </div>
         <div className="self-stretch flex flex-col items-center justify-start gap-[17px] text-base font-body-large-400">

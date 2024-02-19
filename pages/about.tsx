@@ -18,14 +18,7 @@ const About: NextPage = () => {
           <div className="self-stretch flex flex-col items-start justify-start gap-[24px] md:self-stretch md:w-auto">
             <div className="self-stretch relative leading-[28px]">
               <p className="m-0">
-                At Internal Healthcare Solutions, we are passionate about
-                connecting nurses with the best opportunities available within
-                the healthcare industry. We understand the challenges nurses
-                face when searching for internal contracts, especially when it
-                comes to locating the most favorable rates. That's why we have
-                built a platform that simplifies the process, making it easier
-                than ever for nurses to find and access internal contracts
-                offered by hospitals.
+              At Connect Internal, we are passionate about connecting nurses with the best opportunities available within the healthcare industry. We understand the challenges nurses face when searching for internal contracts (which generally have the most favorable rates). That's why we have already done all the groundwork of looking for these contracts and simplify the process, making it easier than ever for nurses to access internal contracts.
               </p>
               <p className="m-0"></p>
               <p className="m-0">
